@@ -18,7 +18,7 @@
 
     }
   .logo {
-    background-image: url("amazone\ clone\ \(resources\)/amazon_logo");
+    background-image: url("amazone\ clone\ \(resources\)/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -224,7 +224,7 @@
                             justify-content: center;
                            }
                              .imagefoot {
-                              background-image:url("amazone\ Clone\ \(Resources\)/amazon_logo.png");
+                              background-image:url("amazone\ clone\ \(resources\)/amazon_logo.png");
                               background-size: cover;
                                height: 50px;
                               width: 100px;
